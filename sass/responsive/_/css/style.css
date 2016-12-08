@@ -1,0 +1,6 @@
+/* line 1, ../components/sass/_base.scss */
+body {
+  background: #EAE3CB;
+}
+
+@modules "modules";
