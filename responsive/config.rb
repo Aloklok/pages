@@ -1,6 +1,6 @@
 require "susy"
-css_dir = '_/css'
+css_dir = 'css'
 sass_dir = '_/components/sass'
-javascripts_dir = '_/js'
+javascripts_dir = 'js'
 output_style = :compressed
 relative_assets = true
